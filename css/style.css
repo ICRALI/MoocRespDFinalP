@@ -23,6 +23,10 @@ li{
     margin-top: 20px;
 }
 
+p{
+    text-align: justify;
+}
+
 img{
     width: 100%;
     border: 5px solid blue;
